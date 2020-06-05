@@ -1,0 +1,6 @@
+This is a simple demonstration of a shopping cart. Web stacks used are ReactJS, React-Bootstrap.
+
+Web demo at: https://shopping-cart-react-b1b2e.web.app/
+
+In src folder you will find source code for this project. This is not a full source code.
+In build folder there are files that was built for optimization product.
